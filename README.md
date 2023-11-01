@@ -1,5 +1,8 @@
 # Projects
 
+## Dashboard - App
+- Tools : vite, Chakra UI
+
 ## React - Friends
 - Tools : vite, class based components
 - Packages : tachyons
