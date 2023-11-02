@@ -3,9 +3,11 @@
 ## Dashboard - App
 - Tools : vite, Chakra UI
 
+## Issutracker
+- Tools : Next js, Redix UI, Tailwind CSS
+
 ## React - Friends
-- Tools : vite, class based components
-- Packages : tachyons
+- Tools : Vite, class based components, Tachyons
 
 ## Ecommerce - Site
 - Tools : HTML, CSS
