@@ -13,7 +13,7 @@ const Projects = () => {
       category: "Frontend",
       subtitle: "React, Chakra UI, TypeScript",
       link:'https://mv-tsproject.netlify.app/',
-      code:'https://github.com/Milanvvala/projects/tree/main/TypeScript_Project'
+      code:'https://github.com/(your name)/projects/tree/main/TypeScript_Project'
     },
     {
       id: 1,
@@ -22,7 +22,7 @@ const Projects = () => {
       category: "Frontend, Backend",
       subtitle: "React, Node, Express, MongoDB",
       link:'https://bookmarkingapp.onrender.com/',
-      code:'https://github.com/Milanvvala/projects/tree/main/bookmark'
+      code:'https://github.com/(your name)/projects/tree/main/bookmark'
     },
     {
       id: 2,
@@ -40,7 +40,7 @@ const Projects = () => {
       category: "Frontend Devleopment",
       subtitle: "HTML5, CSS3, JavaScript",
       link:'https://mv-ecommerce-site.netlify.app/',
-      code:'https://github.com/Milanvvala/projects/tree/main/Ecommerce-site'
+      code:'https://github.com/(your name)/projects/tree/main/Ecommerce-site'
     },
     {
       id: 4,
@@ -48,8 +48,8 @@ const Projects = () => {
       title: "More Projects",
       category: "Projects",
       subtitle: "devlopment",
-      link:'https://milanvvala.github.io/',
-      code:'https://github.com/Milanvvala/projects/'
+      link:'https://(your name).github.io/',
+      code:'https://github.com/(your name)/projects/'
     },
   ];
 

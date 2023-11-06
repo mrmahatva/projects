@@ -12,7 +12,7 @@ const Hero = () => {
                 <span className="material-symbols-outlined w-10 h-10 ml-5 text-yellow-300">waving_hand</span><br />
               </span>
 
-              This is Milan Vala,<br />
+              This is (your name),<br />
               a WEB<span className="material-symbols-outlined text-blue-500">language</span>
               <span className='font-mono'> Devloper</span>
               <span className="material-symbols-outlined text-lime-400">code</span> &
@@ -35,7 +35,7 @@ export default Hero;
 <h1 className="font-bold max-w-md text-center text-3xl md:text-4xl md:text-left font-Inter">
             Hey There
             <span className="material-symbols-outlined text-4xl">waving_hand</span><br />
-            This is Milan Vala,
+            This is (your name),
             a <span className="material-symbols-outlined text-4xl text-blue-500">language</span>WEB<br />
             <span className="material-symbols-outlined text-4xl text-gray-500">code</span>
             <span className='font-extrabold font-RobotoMono text-slate-900'>Devloper</span> &<br />
@@ -44,7 +44,7 @@ export default Hero;
             based in India.<br />
             Available for Freelance, Work & Collaborations.
           </h1>
-          Milan Vala
+          (your name)
             <br />I am a Web designer and a Front-end developer.
           </div>
 */

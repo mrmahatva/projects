@@ -5,10 +5,10 @@ const Contact = () => {
     <>
         <h2 className="font-bold text-6xl leading-[60px] text-white" id="projects">Conect with Me...</h2>
         <div className='flex space-x-5'>
-          <a href='https://www.linkedin.com/in/valamilan/'>
+          <a href='https://www.linkedin.com/in/(your name)/'>
             <img height="48" width="48" src="https://cdn.simpleicons.org/linkedin/#0A66C2" title="LinkedIN" />
           </a>
-          <a href='https://github.com/Milanvvala'>
+          <a href='https://github.com/(your name)'>
             <img height="48" width="48" src="https://cdn.simpleicons.org/Github/white" title="Github" />
           </a>
           {/* <a href=''>
